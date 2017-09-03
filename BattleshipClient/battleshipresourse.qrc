@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/image">
+        <file>xkilled.gif</file>
+        <file>battleship.jpg</file>
+        <file>cell.jpg</file>
+        <file>o.gif</file>
+        <file>x.gif</file>
+    </qresource>
+</RCC>
